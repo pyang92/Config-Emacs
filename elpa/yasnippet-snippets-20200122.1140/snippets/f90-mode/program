@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# contributor: Jonas Kalderstam <jonas@kalderstam.se>
+# name: program .. end program
+# key: pro
+# --
+Program ${1:name}
+  ${2:implicit none}
+
+  $0
+
+End Program $1

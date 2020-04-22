@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: Li Zhu <http://www.zhuli.name>
+# name: open (*,*)
+# key: op
+# --
+ open (${1:*},${2:*}) $0
+ 

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# contributor: Li Zhu <http://www.zhuli.name>
+# name: parameter
+# key: pa
+# --
+parameter $0

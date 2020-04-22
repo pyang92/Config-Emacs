@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# contributor: Li Zhu <http://www.zhuli.name>
+# name: write (*,*)
+# key: w
+# --
+write (${1:*},${2:*}) $0
